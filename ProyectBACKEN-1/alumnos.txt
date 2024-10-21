@@ -1,0 +1,3 @@
+i2052201458;Juan;Perez;Ingeniería de Sistemas;III
+i201311191;Bryan;Quispe;Computacion e informatica;VI
+i2052201499;Carlos;Garcia;Contabilidad;VI
